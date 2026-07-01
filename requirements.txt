@@ -1,0 +1,5 @@
+selenium
+requests
+pywin32
+pynput
+plyer
